@@ -1,2 +1,4 @@
 # EEG
 Pattern recognition and analysis of EEG signals from PTSD patients
+
+Both statistical and ANN based classifiers such as Decision tree, K-NN, SVM, MLP, k-fold cross validation of MLP are employed. The performance of the proposed model is evaluated on EEG signals, which are collected from subjects suffering Depression, a psychiatric neural disorder. Insomnia and narcolepsy are the two main depression symptoms shown by subjects and data are collected from publicly available database.  Diagnosing depression in the early curable stage is very important. The machine learning classifiers are used to recognize EEG data of people showing depression symptoms, and classify it from the control set with healthy EEG data. Temporal-spectral features are extracted from the EEG data using DWT method. The results are compared with previous studies and found to be superior in terms of performance and complexity of the techniques used.  
