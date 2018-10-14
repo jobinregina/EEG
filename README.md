@@ -28,7 +28,7 @@ Feature Standardization
 	The extracted features are standardized with zero mean and unit variance.
 Feature Classification
 	Classification of the selected features using Decision Tree, KNN, SVM, MLP and LSTM.
-![alt text](https://raw.githubusercontent.com/jobinregina/EEG/master/flow.png) 
+![alt text](https://raw.githubusercontent.com/jobinregina/EEG/master/Flow_chart.png) 
 Figure 39: Proposed method for EEG signals feature extraction and classification.
 5.1.1 Feature Extraction
 The performance of pattern recognition systems is influenced by the (i) amount of data (ii) pattern recognition approach used. The total number of samples representing data depends on two factors namely, sampling frequency and duration of data acquisition. Pattern recognition has been conventionally studied following the main approaches like statistical, temporal, structural, neural network and fuzzy. Among these statistical approach has been mostly  used for data analysis and classification [97]. In our study data is not a limiting factor hence we will study about pattern recognition approach followed. 
